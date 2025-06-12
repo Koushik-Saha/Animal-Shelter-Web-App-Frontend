@@ -1,0 +1,48 @@
+{
+  "name": "@shelter/shell",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev -p 3000",
+    "lint": "next lint",
+    "start": "next start",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next && rm -rf dist"
+  },
+  "dependencies": {
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@shelter/ui": "*",
+    "@shelter/types": "*",
+    "@shelter/utils": "*",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
+    "@mui/icons-material": "^5.15.20",
+    "framer-motion": "^11.2.10",
+    "react-spring": "^9.7.3",
+    "lottie-react": "^2.4.0",
+    "react-intersection-observer": "^9.10.2",
+    "react-parallax": "^3.5.1",
+    "particles.js": "^2.0.0",
+    "react-particles": "^2.12.2",
+    "tsparticles": "^3.4.0",
+    "@tsparticles/react": "^3.0.0",
+    "@module-federation/nextjs-mf": "^8.2.8",
+    "next-pwa": "^5.6.0",
+    "react-hook-form": "^7.51.5",
+    "react-hook-form-mui": "^6.0.5",
+    "yup": "^1.4.0",
+    "@hookform/resolvers": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.5",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^15.0.3"
+  }
+}

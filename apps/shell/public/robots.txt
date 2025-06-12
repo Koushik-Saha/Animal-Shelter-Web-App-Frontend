@@ -1,0 +1,71 @@
+# Animal Shelter Management System - Robots.txt
+# This file tells web crawlers which parts of our site they can access
+
+User-agent: *
+Allow: /
+Allow: /adopt
+Allow: /volunteer
+Allow: /events
+Allow: /about
+Allow: /contact
+
+# Disallow private/internal areas
+Disallow: /admin
+Disallow: /api/
+Disallow: /medical
+Disallow: /legal
+Disallow: /reporting
+Disallow: /transport
+Disallow: /behavior
+Disallow: /web3
+Disallow: /offline
+
+# Allow specific public API endpoints
+Allow: /api/animals/public
+Allow: /api/events/public
+Allow: /api/adoptions/available
+
+# Block access to sensitive files
+Disallow: /*.json$
+Disallow: /*?*admin*
+Disallow: /*?*login*
+Disallow: /*?*auth*
+
+# Allow crawling of static assets
+Allow: /icons/
+Allow: /images/
+Allow: /screenshots/
+Allow: /_next/static/
+
+# Sitemap location
+Sitemap: https://animalshelter.app/sitemap.xml
+
+# Crawl delay (be nice to our servers)
+Crawl-delay: 1
+
+# Special rules for specific bots
+User-agent: Googlebot
+Crawl-delay: 0
+Allow: /
+
+User-agent: Bingbot
+Crawl-delay: 2
+
+User-agent: facebookexternalhit
+Allow: /
+Allow: /adopt
+Allow: /volunteer
+Allow: /events
+
+# Block aggressive crawlers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Note: This is a private shelter management system
+# Public access is limited to adoption and volunteer information only
