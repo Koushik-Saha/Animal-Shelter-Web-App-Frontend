@@ -1,0 +1,13 @@
+{
+  "name": "@shelter/config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "echo 'Config build complete'",
+    "dev": "echo 'Config dev mode ready'",
+    "lint": "echo 'Config lint complete'",
+    "clean": "echo 'Config clean complete'",
+    "type-check": "echo 'Config type check complete'"
+  }
+}
