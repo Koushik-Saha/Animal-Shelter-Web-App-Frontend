@@ -4,3 +4,361 @@
 2025-06-14T21:03:18.498580Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }}))
 2025-06-14T21:03:18.898373Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/_events.json")}
 2025-06-14T21:03:18.898382Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:03:49.397073Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-06-14T21:03:49.397085Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:03:50.397278Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/medical/.next/trace"), AnchoredSystemPathBuf("apps/admin/.next/trace"), AnchoredSystemPathBuf("apps/shell/.next/_events.json"), AnchoredSystemPathBuf("apps/volunteer/.next/trace")}
+2025-06-14T21:03:50.397291Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }}))
+2025-06-14T21:03:50.797319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/_events.json")}
+2025-06-14T21:03:50.797336Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:04:21.196355Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2025-06-14T21:04:21.196390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:06:32.100726Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/src/pages"), AnchoredSystemPathBuf("apps/adoption/src/pages/index.tsx")}
+2025-06-14T21:06:32.101349Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:06:46.391697Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/next.config.simple.js")}
+2025-06-14T21:06:46.391722Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:06:52.792331Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/next.config.backup.js"), AnchoredSystemPathBuf("apps/adoption/next.config.js")}
+2025-06-14T21:06:52.792355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:07:01.391016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/package.simple.json")}
+2025-06-14T21:07:01.391044Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:07:07.890909Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/package.json"), AnchoredSystemPathBuf("apps/adoption/package.json.backup")}
+2025-06-14T21:07:07.890929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:07:18.890908Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/tsconfig.json")}
+2025-06-14T21:07:18.890937Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:07:28.491557Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:28.491576Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:28.590575Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:28.590583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:28.691595Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:28.691603Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:28.790072Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:28.790081Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:28.894407Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:28.894422Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.291643Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.291651Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.391107Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.391116Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.491749Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.491757Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.592889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.592904Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.690980Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.690995Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.789748Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.789756Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:29.993502Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:29.993519Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.092159Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.092168Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.190776Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.190784Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.291115Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.291124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.390843Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.390853Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.492363Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.492377Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.590900Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.590909Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.690208Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.690217Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.790400Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.790410Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.891784Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.891798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:30.991775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:30.991790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.191391Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.191400Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.391924Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.391932Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.493034Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.493044Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.591174Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.591182Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.692132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.692141Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.790458Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.790466Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.890358Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.890366Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:31.991802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:31.991811Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.090438Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.090446Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.191444Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.191456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.290634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.290648Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.390415Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.390430Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.491824Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.491838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:07:32.593013Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:07:32.593020Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:08:08.189222Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/package.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/trace"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/development"), AnchoredSystemPathBuf("apps/shell/.next/server"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json")}
+2025-06-14T21:08:08.189266Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:08:08.389247Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/trace"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js")}
+2025-06-14T21:08:08.389267Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:08:08.688410Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json")}
+2025-06-14T21:08:08.688422Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:10:05.985538Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/trace")}
+2025-06-14T21:10:05.985575Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:10:06.031790Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:10:45.284583Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("fix-all-apps.sh")}
+2025-06-14T21:10:45.284613Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:11:03.684475Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("fix-all-apps.sh")}
+2025-06-14T21:11:03.684527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:11:04.083571Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/admin/src/pages"), AnchoredSystemPathBuf("apps/medical/src/pages/index.tsx"), AnchoredSystemPathBuf("apps/medical/tsconfig.json"), AnchoredSystemPathBuf("apps/adoption/package.json"), AnchoredSystemPathBuf("apps/adoption/tsconfig.json"), AnchoredSystemPathBuf("apps/volunteer/src/pages/index.tsx"), AnchoredSystemPathBuf("apps/volunteer/tsconfig.json"), AnchoredSystemPathBuf("apps/admin/next.config.js"), AnchoredSystemPathBuf("apps/admin/src/pages/index.tsx"), AnchoredSystemPathBuf("apps/medical/src/pages"), AnchoredSystemPathBuf("apps/medical/package.json"), AnchoredSystemPathBuf("apps/volunteer/package.json"), AnchoredSystemPathBuf("apps/adoption/next.config.js"), AnchoredSystemPathBuf("apps/medical/next.config.js"), AnchoredSystemPathBuf("apps/adoption/src/pages/index.tsx"), AnchoredSystemPathBuf("apps/volunteer/next.config.js"), AnchoredSystemPathBuf("apps/admin/tsconfig.json"), AnchoredSystemPathBuf("apps/admin/package.json"), AnchoredSystemPathBuf("apps/volunteer/src/pages")}
+2025-06-14T21:11:04.083584Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:11:05.083782Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.083791Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.184626Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.184635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.292678Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.292694Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.384861Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.384871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.486561Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.486577Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.786993Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.787009Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.883844Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.883853Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:05.986960Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:05.986975Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.083800Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.083807Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.184512Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.184520Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.283541Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.283555Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.385779Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.385795Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.686092Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.686106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.784658Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.784667Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.884672Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.884698Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:06.983539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:06.983547Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.084522Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.084531Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.184039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.184048Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.284476Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.284484Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.484666Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.484680Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.583582Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.583592Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.683654Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.683662Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.784349Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.784363Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.887037Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.887045Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:07.986791Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:07.986799Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.086152Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.086161Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.185795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.185806Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.288530Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.288539Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.384071Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.384078Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.484624Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.484632Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.586795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.586803Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.684534Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.684542Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.784295Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.784303Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.884786Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.884794Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:08.984734Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:08.984743Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.184624Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.184633Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.384529Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.384538Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.484103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.484112Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.583490Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.583499Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.684054Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.684062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:09.985445Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:09.985459Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.084568Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.084577Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.183637Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.183645Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.284805Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.284815Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.493573Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.493582Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.583983Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.583994Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.685272Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.685287Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.783736Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.783743Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.884259Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.884273Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:10.984749Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:10.984758Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.084013Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.084021Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.183734Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.183748Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.284079Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.284088Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.384616Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.384625Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.483935Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.483942Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.584603Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.584611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.684912Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.684921Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:11.885219Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:11.885234Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.285056Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.285066Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.385223Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.385230Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.485897Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.485905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.587381Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.587390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.683529Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.683536Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.785857Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.785866Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:12.888908Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:12.888925Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:13.484069Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:13.484077Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:13.584858Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:13.584872Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:13.683822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:13.683833Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:13.784905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:13.784914Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:13.885329Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:13.885338Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.284409Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.284417Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.383460Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.383468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.486922Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.486935Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.684299Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.684308Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.786808Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.786823Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.886342Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.886365Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:14.984535Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:14.984543Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.083305Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.083324Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.185405Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.185418Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.284300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.284308Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.383877Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.383885Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.483742Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.483749Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.584551Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.584559Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.684156Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.684164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.783919Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.783934Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:15.883641Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:15.883651Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.088646Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.088660Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.385157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.385170Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.485049Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.485057Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.585035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.585046Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.683917Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.683932Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.886773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.886790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:16.983638Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:16.983647Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:17.083677Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-06-14T21:11:17.083685Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-06-14T21:11:23.883408Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/src/pages/index.tsx")}
+2025-06-14T21:11:23.883418Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:40.082876Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/next-env.d.ts")}
+2025-06-14T21:11:40.082894Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:40.282817Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/package.json"), AnchoredSystemPathBuf("apps/adoption/.next")}
+2025-06-14T21:11:40.282826Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:40.383086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static/development"), AnchoredSystemPathBuf("apps/adoption/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/trace"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static"), AnchoredSystemPathBuf("apps/adoption/.next/server"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.js")}
+2025-06-14T21:11:40.383109Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:40.582619Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-build-manifest.js")}
+2025-06-14T21:11:40.582636Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:40.618998Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:11:40.682536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json")}
+2025-06-14T21:11:40.682546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:11:41.682557Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack/client-development/0.pack.gz_"), AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack/client-development/index.pack.gz"), AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/adoption/.next/cache"), AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack/client-development"), AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack"), AnchoredSystemPathBuf("apps/adoption/.next/cache/webpack/client-development/0.pack.gz")}
+2025-06-14T21:11:41.682568Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:13:38.280267Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/trace")}
+2025-06-14T21:13:38.280334Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:13:38.315873Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:14:05.678613Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("SOLUTION_SUMMARY.md")}
+2025-06-14T21:14:05.678642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:19:43.879959Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2025-06-14T21:19:43.881289Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:19:45.968809Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/volunteer/next-env.d.ts"), AnchoredSystemPathBuf("apps/medical/next-env.d.ts"), AnchoredSystemPathBuf("apps/admin/next-env.d.ts")}
+2025-06-14T21:19:45.968831Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }}))
+2025-06-14T21:19:46.169210Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/trace"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks"), AnchoredSystemPathBuf("apps/adoption/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/package.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/adoption/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static/development")}
+2025-06-14T21:19:46.169221Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:19:46.268177Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/package.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks"), AnchoredSystemPathBuf("apps/volunteer/.next/package.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server"), AnchoredSystemPathBuf("apps/admin/.next/trace"), AnchoredSystemPathBuf("apps/admin/.next/package.json"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static"), AnchoredSystemPathBuf("apps/shell/.next/trace"), AnchoredSystemPathBuf("apps/volunteer/.next/trace")}
+2025-06-14T21:19:46.268188Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }}))
+2025-06-14T21:19:46.368672Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/medical/.next/package.json"), AnchoredSystemPathBuf("apps/medical/.next/trace")}
+2025-06-14T21:19:46.368683Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }}))
+2025-06-14T21:19:46.568425Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/admin/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/server"), AnchoredSystemPathBuf("apps/medical/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server"), AnchoredSystemPathBuf("apps/volunteer/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/static/chunks"), AnchoredSystemPathBuf("apps/medical/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/medical/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/static/development"), AnchoredSystemPathBuf("apps/volunteer/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/admin/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/static/chunks"), AnchoredSystemPathBuf("apps/admin/.next/server"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/static/chunks"), AnchoredSystemPathBuf("apps/volunteer/.next/trace"), AnchoredSystemPathBuf("apps/medical/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/admin/.next/static"), AnchoredSystemPathBuf("apps/admin/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/static/development"), AnchoredSystemPathBuf("apps/medical/.next/trace"), AnchoredSystemPathBuf("apps/medical/.next/static"), AnchoredSystemPathBuf("apps/volunteer/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/static"), AnchoredSystemPathBuf("apps/volunteer/.next/static/development"), AnchoredSystemPathBuf("apps/volunteer/.next/server/pages-manifest.json")}
+2025-06-14T21:19:46.568439Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:19:46.668277Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks"), AnchoredSystemPathBuf("apps/adoption/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/shell/.next/static"), AnchoredSystemPathBuf("apps/adoption/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/trace"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development"), AnchoredSystemPathBuf("apps/adoption/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/chunks/polyfills.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/trace"), AnchoredSystemPathBuf("apps/adoption/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/static"), AnchoredSystemPathBuf("apps/adoption/.next/server"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js")}
+2025-06-14T21:19:46.668290Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:19:46.767230Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/medical/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/trace"), AnchoredSystemPathBuf("apps/medical/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/server/pages-manifest.json")}
+2025-06-14T21:19:46.767248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))
+2025-06-14T21:19:47.018000Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:47.018445Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/admin/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/volunteer/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/medical/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/admin/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/medical/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/shell/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/volunteer/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/react-loadable-manifest.json")}
+2025-06-14T21:19:47.018460Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }}))
+2025-06-14T21:19:47.018504Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:47.126614Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:47.126739Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/admin/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/admin/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/adoption/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/adoption/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/shell/.next/server/interception-route-rewrite-manifest.js")}
+2025-06-14T21:19:47.126743Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:19:47.126758Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:47.126775Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:47.972188Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/medical/.next/cache/webpack/client-development/0.pack.gz"), AnchoredSystemPathBuf("apps/volunteer/.next/cache"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/0.pack.gz_"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development"), AnchoredSystemPathBuf("apps/medical/.next/cache/webpack/client-development"), AnchoredSystemPathBuf("apps/medical/.next/cache"), AnchoredSystemPathBuf("apps/medical/.next/cache/webpack/client-development/0.pack.gz_"), AnchoredSystemPathBuf("apps/medical/.next/cache/webpack/client-development/index.pack.gz"), AnchoredSystemPathBuf("apps/medical/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/medical/.next/cache/webpack")}
+2025-06-14T21:19:47.972220Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }}))
+2025-06-14T21:19:48.074827Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/0.pack.gz"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/index.pack.gz"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development"), AnchoredSystemPathBuf("apps/volunteer/.next/cache/webpack/client-development/0.pack.gz_"), AnchoredSystemPathBuf("apps/admin/.next/cache"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/0.pack.gz_")}
+2025-06-14T21:19:48.074838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:19:48.075183Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:19:48.168726Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/index.pack.gz"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/index.pack.gz_"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/0.pack.gz_"), AnchoredSystemPathBuf("apps/admin/.next/cache/webpack/client-development/0.pack.gz")}
+2025-06-14T21:19:48.168735Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:19:48.168757Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-06-14T21:20:39.160307Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp")}
+2025-06-14T21:20:39.160387Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-06-14T21:21:59.972804Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/admin/.next/trace"), AnchoredSystemPathBuf("apps/shell/.next/_events.json"), AnchoredSystemPathBuf("apps/adoption/.next/_events.json"), AnchoredSystemPathBuf("apps/medical/.next/trace"), AnchoredSystemPathBuf("apps/shell/.next/trace"), AnchoredSystemPathBuf("apps/adoption/.next/trace"), AnchoredSystemPathBuf("apps/admin/.next/_events.json"), AnchoredSystemPathBuf("apps/medical/.next/_events.json"), AnchoredSystemPathBuf("apps/volunteer/.next/_events.json"), AnchoredSystemPathBuf("apps/volunteer/.next/trace")}
+2025-06-14T21:21:59.976834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }, WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }, WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }, WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }}))
+2025-06-14T21:22:00.756524Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/medical/.next/_events.json"), AnchoredSystemPathBuf("apps/volunteer/.next/_events.json"), AnchoredSystemPathBuf("apps/admin/.next/_events.json")}
+2025-06-14T21:22:00.756541Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/admin"), path: AnchoredSystemPathBuf("apps/admin") }, WorkspacePackage { name: Other("@shelter/medical"), path: AnchoredSystemPathBuf("apps/medical") }, WorkspacePackage { name: Other("@shelter/volunteer"), path: AnchoredSystemPathBuf("apps/volunteer") }}))
+2025-06-14T21:22:00.857586Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/adoption/.next/_events.json")}
+2025-06-14T21:22:00.857596Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/adoption"), path: AnchoredSystemPathBuf("apps/adoption") }}))
+2025-06-14T21:22:00.956899Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/shell/.next/_events.json")}
+2025-06-14T21:22:00.956908Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@shelter/shell"), path: AnchoredSystemPathBuf("apps/shell") }}))

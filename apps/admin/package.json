@@ -6,47 +6,17 @@
     "build": "next build",
     "dev": "next dev -p 3005",
     "lint": "next lint",
-    "start": "next start",
-    "type-check": "tsc --noEmit",
-    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next && rm -rf dist"
+    "start": "next start"
   },
   "dependencies": {
-    "next": "^15.0.3",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "@shelter/ui": "*",
-    "@shelter/types": "*",
-    "@shelter/utils": "*",
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
-    "@mui/material": "^5.15.20",
-    "@mui/icons-material": "^5.15.20",
-    "@mui/x-date-pickers": "^7.6.2",
-    "@mui/x-data-grid": "^7.6.2",
-    "framer-motion": "^11.2.10",
-    "react-spring": "^9.7.3",
-    "recharts": "^2.12.7",
-    "d3": "^7.9.0",
-    "@visx/visx": "^3.3.0",
-    "@module-federation/nextjs-mf": "^8.2.8",
-    "react-hook-form": "^7.51.5",
-    "yup": "^1.4.0",
-    "@hookform/resolvers": "^3.6.0",
-    "react-intersection-observer": "^9.10.2",
-    "react-export-excel": "^0.5.3",
-    "jspdf": "^2.5.1",
-    "html2canvas": "^1.4.1",
-    "socket.io-client": "^4.7.5",
-    "react-virtualized": "^9.22.5",
-    "react-window": "^1.8.8"
+    "next": "14.2.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^20.14.2",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@types/d3": "^7.4.3",
-    "typescript": "^5.4.5",
-    "eslint": "^8.57.0",
-    "eslint-config-next": "^15.0.3"
+    "@types/node": "20.14.2",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.4.5"
   }
 }
